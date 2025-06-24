@@ -1,6 +1,6 @@
 # Sustainable-Banking-dashboard
+https://huggingface.co/spaces/DeepikaDeepika/Sustainable_Banking
 Performed carbon footprint analysis using machine learning 
-
 # 🌿 Sustainable Banking Dashboard
 
 This Streamlit app allows users to:
@@ -14,4 +14,4 @@ This Streamlit app allows users to:
 👩‍💻 Developed by **Deepika Singh** | IGDTUW  
 
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
