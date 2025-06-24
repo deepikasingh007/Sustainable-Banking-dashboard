@@ -1,16 +1,5 @@
 # Sustainable-Banking-dashboard
 Performed carbon footprint analysis using machine learning 
----
-title: Sustainable Banking
-emoji: 🐨
-colorFrom: green
-colorTo: green
-sdk: streamlit
-sdk_version: 1.34.0
-app_file: app.py
-pinned: false
-short_description: Carbon footprint analysis using ML
----
 
 # 🌿 Sustainable Banking Dashboard
 
